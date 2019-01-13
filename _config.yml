@@ -1,7 +1,7 @@
 # Site
 title:              Nguyen Duy Cuong
 bio:                '🙌 Trying to become a 🚀 MERN Stack.'
-description:        "I’m a web developer living in Ho Chi Minh city, Vietnam. I started working with javascript since 2018 and I loved it. I'm trying everyday to become a MERN Stack( MongoDB, Express, ReactJS, and Node.js )."
+description:        "I’m a web developer living in Ho Chi Minh city, Vietnam. I started working with Javascript since 2018 and I loved it. I'm trying everyday to become a MERN Stack( MongoDB, Express, ReactJS, and Node.js )."
 reading_time:       true  
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   jade28
 
 # Social
 # if you don't have any of social below, comment the line.
