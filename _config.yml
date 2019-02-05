@@ -2,13 +2,13 @@
 title:              Nguyen Duy Cuong
 bio:                '🙌 Trying to become a 🚀 MERN Stack.'
 description:        "I’m a web developer living in Ho Chi Minh city, Vietnam. I started working with Javascript since 2018 and I loved it. I'm trying everyday to become a MERN Stack( MongoDB, Express, ReactJS, and Node.js )."
-reading_time:       true  
+reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://jade28.github.io
+url:                https://cuongw.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -38,13 +38,13 @@ disqus_shortname:   jade28
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            jade28_
-facebook:           jade28ng
-github-url:         jade28
+twitter:            cuongw_
+facebook:           cuongww
+github-url:         cuongw
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          jade28
+linkedin:          cuongw
 #xing:              username
-instagram:          jade28ng
+instagram:          cuongw
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
