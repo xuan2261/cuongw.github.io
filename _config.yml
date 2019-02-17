@@ -1,6 +1,6 @@
 # Site
 title:              Nguyen Duy Cuong
-bio:                '🙌 Trying to become a 🚀 MERN Stack.'
+bio:                '🙌 Forcusing 🚀 MERN Stack.'
 description:        "I’m a web developer living in Ho Chi Minh city, Vietnam. I started working with Javascript since 2018 and I loved it. I'm trying everyday to become a MERN Stack( MongoDB, Express, ReactJS, and Node.js )."
 reading_time:       true
 words_per_minute:   200
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   jade28
+disqus_shortname:   cuongw
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,13 +38,13 @@ disqus_shortname:   jade28
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            cuongw_
-facebook:           cuongww
+twitter:            cuongw_me
+facebook:           cuongw.me
 github-url:         cuongw
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          cuongw
 #xing:              username
-instagram:          cuongw
+instagram:          cuongw.me
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
