@@ -44,10 +44,6 @@ comments: true
   <a href="https://github.com/cuongw/store-pattern/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/jade28/store-pattern.svg"/>
   </a>
-  
-  <a href="https://github.com/cuongw/store-pattern/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"/>
-  </a>
 </p>  
 
 <div align="center">
@@ -214,7 +210,7 @@ For help getting started with Flutter, view our online [documentation](https://f
 ### `Kitchen App`
 
  <a href="https://github.com/cuongw/store-pattern/tree/master/kitchen_app">
-<img src="Images/kitchen.png" width="900"/>
+<img src="https://user-images.githubusercontent.com/34389409/51789162-b5d75d00-21b8-11e9-9e3f-b419ff3daf2f.png" width="900"/>
   </a>
 
 ## Bugs and Issues
@@ -232,3 +228,5 @@ Have a bug or an issue with this project? [Open a new issue](https://github.com/
 ## License
 
 MIT © [cuongw](https://github.com/cuongw) 🐢
+
+*More infomations about `Store Pattern`, try [this](https://github.com/cuongw/store-pattern).*
