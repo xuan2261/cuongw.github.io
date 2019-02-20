@@ -5,10 +5,7 @@ date:   2019-02-05
 excerpt: "👑 The prototype for management applications."
 project: true
 tag:
-- flutter 
-- mvc-flutter
-- php
-- mysql
+- flutter
 - uit
 comments: true
 ---

@@ -6,9 +6,6 @@ excerpt: "🍵 Management App for Ting Coffee."
 project: true
 tag:
 - flutter 
-- mvc-flutter
-- php
-- mysql
 - uit
 comments: true
 ---
@@ -184,4 +181,4 @@ Have a bug or an issue with this project? [Open a new issue](https://github.com/
 
 [MIT](https://github.com/cuongw/ting-coffee/blob/master/LICENSE)
 
-*More infomations about `Store Pattern`, try [this](https://github.com/cuongw/ting-coffee).*
+*More infomations about `Ting Coffee`, try [this](https://github.com/cuongw/ting-coffee).*
