@@ -19,16 +19,13 @@ comments: true
 </h4>
 
 <p align="center">
-  <span>
-  	<a href="https://travis-ci.org/cuongw/ting-music">
-    	<img src="https://travis-ci.org/cuongw/ting-music.svg?branch=master"/>
-  	</a>
-  </span>
-	<span>
-		<a href="https://github.com/cuongw/ting-music/blob/master/LICENSE">
-    	<img src="https://img.shields.io/github/license/jade28/ting-music.svg"/>
-  	</a>
-	</span>
+  <a href="https://travis-ci.org/cuongw/ting-music">
+    <img src="https://travis-ci.org/cuongw/ting-music.svg?branch=master"/>
+  </a>
+  
+  <a href="https://github.com/cuongw/ting-music/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/jade28/ting-music.svg"/>
+  </a>
 </p>  
 
 <div align="center">
