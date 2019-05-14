@@ -1,7 +1,7 @@
 # Site
 title:              Nguyen Duy Cuong
-bio:                '🚀 Javascript Developer'
-description:        "I’m a web developer living in Ho Chi Minh city, Vietnam. I started working with Javascript since 2018 and I loved it. I'm trying everyday to become a Javascript Developer."
+bio:                'const { JavaScript, React, Redux, GraphQL, Node, Express, Socket.IO, MongoDB, MySQL } = me'
+description:        "Full Stack developer has experience in JavaScript, React and Node. Love programming, love open source and love football."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
