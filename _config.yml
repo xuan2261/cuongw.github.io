@@ -1,6 +1,6 @@
 # Site
 title:              Nguyen Duy Cuong
-bio:                'const { JavaScript, React, Redux, GraphQL, Node, Express, Socket.IO, MongoDB, MySQL } = me'
+bio:                'const { code, eat, sleep, repeat } = me'
 description:        "Full Stack developer has experience in JavaScript, React and Node. Love programming, love open source and love football."
 reading_time:       true
 words_per_minute:   200
